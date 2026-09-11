@@ -1,3 +1,7 @@
+## Parcours français
+
+Le parcours documentaire français consacré à ce composant Base est disponible dans [`docs/fr/`](docs/fr/).
+
 <p align="center">
 <img src="./Basemark.png" alt="Base logo" width="480" />
 </p>
